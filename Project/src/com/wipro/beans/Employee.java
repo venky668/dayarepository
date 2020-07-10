@@ -6,7 +6,7 @@ public class Employee {
 	{
 		int a=10;
 		int b=20;
-		System.out.println("sum of two fwfwfewfew numbers is and sum was.......  "+(a+b));
+		System.out.println("sum of dwefwfqwf rwqwrwqre two numbers is and sum was.......  "+(a+b));
 		System.out.println("dude1234");
 
 	}
